@@ -5,23 +5,20 @@
 </head>
 
 <body>
-  Seleccione la operacion que desea realizar:
-  <br>
-  <br>
-  <form method="post" action="nuevalibreta.php">
-    <button type="submit">Nueva libreta</button>
-  </form>
-  <br>
-  <form method="post" action="buscarlibreta.php">
-    <button type="submit">Editar libreta</button>
-  </form>
-  <br>
-  <form method="post" action="sacarturno.php">
-    <button type="submit">Sacar turno</button>
-  </form>
-  <br>
-  <form method="post" action="obtenerlistadoturnos.php">
-    <button type="submit">Obtener listado de turnos</button>
+  <form method="post" action="altalibreta.php">
+    Ingrese su DNI:
+    <input type="text" value="dni"><br>
+    Ingrese su nombre completo:
+    <input type="text" value="nombre"><br>
+    Ingrese su mail:
+    <input type="text" value="mail">
+    Ingrese la fecha de nacimiento (dd/mm/aaaa):
+    <input type="text" name="dia" size="2">
+    <input type="text" name="mes" size="2">
+    <input type="text" name="anio" size="4">
+    <br>
+    
+    
   </form>
 </body>
 
