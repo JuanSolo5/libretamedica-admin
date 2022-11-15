@@ -7,6 +7,7 @@
 <body>
   Seleccione la operacion que desea realizar:
   <br>
+  <br>
   <form method="post" action="nuevalibreta.php">
     <button type="submit">Nueva libreta</button>
   </form>
