@@ -11,12 +11,14 @@
     Ingrese su nombre completo:
     <input type="text" value="nombre"><br>
     Ingrese su mail:
-    <input type="text" value="mail">
+    <input type="text" value="mail"><br>
     Ingrese la fecha de nacimiento (dd/mm/aaaa):
     <input type="text" name="dia" size="2">
     <input type="text" name="mes" size="2">
     <input type="text" name="anio" size="4">
     <br>
+    Ingrese su obra social:
+    <select name
     
     
   </form>
