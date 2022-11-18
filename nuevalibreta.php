@@ -41,13 +41,13 @@
     Si <input type="radio" name="covid" value="Si"> No <input type="radio" name="covid" value="No">
     <br>
     Ingrese si es que tiene alergias:
-    <input type="text" name="alergias">
+    <input type="text" name="alerg">
     <br>
     Ingrese si posee antecedentes medicos familiares
-    <input type="text" name="antecedentes">
+    <input type="text" name="antec">
     <br>
     Ingrese registros medicos
-    <input type="text" name="registros">
+    <input type="text" name="regis">
     <br>
     
     Seleccione que vacunas tiene: <br>
